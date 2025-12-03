@@ -10,12 +10,12 @@ This project demonstrates modern web development practices, proper version contr
 - Easy to customize  
 
 ## Installation & Usage  
--1.Download the zip 
--2.Open index.html in your browser.
--3.Customize content in index.html and style.css as needed.
+- 1.Download the zip 
+- 2.Open index.html in your browser.
+- 3.Customize content in index.html and style.css as needed.
 
 ## Technology Used
--HTML5
--CSS3
--Git & GitHub
--VS Code
+- HTML5
+- CSS3
+- Git & GitHub
+- VS Code
